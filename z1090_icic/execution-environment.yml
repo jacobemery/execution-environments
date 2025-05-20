@@ -9,7 +9,7 @@ dependencies:
   galaxy: requirements.yml
   python:
     - netaddr
-    - openstacksdk==2.1.0
+    - openstacksdk==1.9.0
   ansible_core:
     package_pip: ansible-core==2.14.2
   ansible_runner:
